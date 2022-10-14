@@ -1,3 +1,3 @@
 # eyasubirhanu
-Studing Electrical and Computer Engineering.
+Computer Engineer
 
