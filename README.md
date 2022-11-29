@@ -1,5 +1,5 @@
 # eyasubirhanu
 Computer Engineer
 
-Python Backend and AI, Golang Backend, Haskell and Plutus Cardano Development
+Python for Backend and AI, Golang for Backend, Haskell and Plutus for Cardano Development
 
