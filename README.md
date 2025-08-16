@@ -1,5 +1,5 @@
 # eyasubirhanu
-Computer Engineer
+Cardano Blockcahin Smart Contract Developer
 
 Hi there! 👋
 
