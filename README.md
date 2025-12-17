@@ -1,5 +1,4 @@
 # eyasubirhanu
-Cardano Blockcahin Smart Contract Developer
 
 Hi there! 👋
 
